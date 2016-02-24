@@ -1,0 +1,14 @@
+﻿{
+  "Framework": "qunit",
+  "Compile": {
+    "Mode": "External",
+    "Extensions": [ ".ts" ],
+    "ExtensionsWithNoOutput": [ ".d.ts" ]
+  },
+    "References": [
+    {"Includes": ["*.ts"], "Excludes": ["*/src/*.d.ts"] }
+  ],
+  "Tests": [
+    { "Includes": ["*Test.ts"], "Excludes": ["*/test/*.d.ts"] }
+  ]
+}

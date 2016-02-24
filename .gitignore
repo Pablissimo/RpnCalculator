@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin
+/obj/Debug
+/ShuntingYardTest.js.map
+/ShuntingYardTest.js
+/ShuntingYard.js.map
+/ShuntingYard.js
+/rpnCalculatorTest.js.map
+/rpnCalculatorTest.js
+/RpnCalculator.js.map
+/RpnCalculator.js
+/app.js.map
+/app.js
